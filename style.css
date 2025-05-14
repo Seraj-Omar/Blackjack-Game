@@ -10,6 +10,12 @@ body{
     transform: translate(-50%, -50%);
     text-align: center;
 }
+.container{
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgba(240, 255, 255, 0.271);
+}
 h1{
     color: rgb(0, 0, 0);
 }
