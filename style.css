@@ -3,6 +3,7 @@ body{
     background-image: url(/GreenBG.jpg);
     background-size: cover;
     font-weight: bold;
+    padding-top: 20%;
     color: white;
     margin: 20px;
     text-align: center;
